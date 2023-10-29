@@ -22,10 +22,10 @@ Icons: <link
       integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
-    />
+    />g
 
 <h1>Project Gif</h1>
 
-<img src="t-pj.giff" alt="">
+<img src="mp.gif" alt="">
 
 <!--  -->
